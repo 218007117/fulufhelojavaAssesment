@@ -1,10 +1,10 @@
-package za.co.etalente.service.impl;
+package com.enviro.assessment.grad001.fulufhelotshifhango.service.impl;
 
+import com.enviro.assessment.grad001.fulufhelotshifhango.service.WithdrawalService;
 import org.springframework.stereotype.Service;
-import za.co.etalente.data.model.Product;
-import za.co.etalente.data.payload.request.InvestorRequest;
-import za.co.etalente.data.payload.response.WithdrawalResponse;
-import za.co.etalente.service.WithdrawalService;
+import com.enviro.assessment.grad001.fulufhelotshifhango.data.model.Product;
+import com.enviro.assessment.grad001.fulufhelotshifhango.data.payload.request.InvestorRequest;
+import com.enviro.assessment.grad001.fulufhelotshifhango.data.payload.response.WithdrawalResponse;
 
 import java.util.Calendar;
 

@@ -1,4 +1,4 @@
-package za.co.etalente.data.model;
+package com.enviro.assessment.grad001.fulufhelotshifhango.data.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

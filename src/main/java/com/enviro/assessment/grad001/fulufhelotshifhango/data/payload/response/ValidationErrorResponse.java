@@ -1,4 +1,4 @@
-package za.co.etalente.data.payload.response;
+package com.enviro.assessment.grad001.fulufhelotshifhango.data.payload.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

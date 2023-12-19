@@ -1,4 +1,4 @@
-package za.co.etalente;
+package com.enviro.assessment.grad001.fulufhelotshifhango;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
